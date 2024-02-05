@@ -1,0 +1,12 @@
+{
+  "name": "tailwind-java",
+  "version": "1.0.0",
+  "description": "landing page for java",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch\n"
+  },
+  "author": "Ahmed",
+  "license": "ISC"
+}
